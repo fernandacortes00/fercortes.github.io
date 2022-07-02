@@ -11,9 +11,9 @@ title                    : ""
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description..."
-url                      : https://solalzu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fernandacortes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "solalzu/solalzu.github.io"
+repository               : "fernanda/fernandacortes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,13 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sol Alzú"
+  name             : "Fernanda Cortés"
   avatar           : "4x4.jpg"
-  bio              : "Economía - Universidad de San Andrés"
+  bio              : "Student in master's degree in Economics at Universidad de San Andrés"
   location         : "Buenos Aires, Argentina"
-  email            : "malzu@udesa.edu.ar"
-  github           : "solalzu"
-  linkedin         : "https://www.linkedin.com/in/mar%C3%ADa-sol-alz%C3%BA/"
+  email            : "cortesf@udesa.edu.ar"
+  github           : "cortesfernanda00"
+  linkedin         : "https://www.linkedin.com/in/fernanda-cortes-b9a98320b/"
 
 # Reading Files
 include:
