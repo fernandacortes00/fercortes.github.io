@@ -11,43 +11,30 @@ redirect_from:
 
 Education
 ======
-* Maestría en Economía, Universidad de San Andrés, 2022 (en curso)
-* Licenciatura en Economía, Universidad de San Andrés, 2021 (tesis pendiente)
+* Bachelor’s degree in Economics, [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia), 2021 (thesis pending)
+* Master’s degree in Economics, [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia), 2022 (expected)
 
-Experiencia
+Professional experience
 ======
-* Profesora asistente. Economía I (actualmente)
+* Research assistant (2021)
   * Universidad de San Andrés
-  * Profesores: M. Gabriela Ertola Navajas y Federico A. Sturzenegger
+  * Professor: María Edo
 
-* Ayudante de cátedra. Economía I (2021)
+* Research assistant (2020)
   * Universidad de San Andrés
-  * Profesores: M. Gabriela Ertola Navajas y Federico A. Sturzenegger
-
-* Alumna asistente de investigación (2021)
-  * Universidad de San Andrés
-  * Profesora: María Edo
-  * Investigación en temas de género y familia
-
-* Alumna asistente de investigación (2020)
-  * Universidad de San Andrés
-  * Profesor: Diego Reynoso
-  * [Encuesta de Satisfacción Política y Opinión Pública (ESPOP)] (https://udesa.edu.ar/espop)
+  * Professor: Federico A. Sturzenegger
   
-Habilidades IT
+Software and Computer skills
 ======
-* Stata
-* R
-* SPSS
-* Latex
+* Software and Computer skills
+  * Stata
+  * R
+  * Matlab
+  * Python
 
-Idiomas
+Languages
 ======
-* Inglés
-* Portugués
+* English 
+* Italian 
 
-Voluntariados
-======
-* TECHO (UdeSA Construye) 
-* Partners UdeSA
-* Hogar del Niño Padre Jose Zanocchi 
+
