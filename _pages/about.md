@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "María Sol Alzú"
+title: "Fernanda Cortés"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Licenciada en Economía (tesis pendiente) y estudiante de la Maestría en Economía en la [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia). 
+Bachelor degree in Economics and student in master's degree in Economics at [Universidad de San Andrés](https://udesa.edu.ar/departamento-de-economia). 
 
-Me interesan los temas vinculados a pobreza, desigualdad, desarollo humano y políticas sociales. Me gusta la econometría en general y más precisamente la microeconometría aplicada. Desde mi lugar y combinando mis intereses espero aportar mi granito de arena al mundo.
+My interests in Economics are focused on poverty and similar subjects. This led me to become interested in development and public policies. I believe that from investigating this topics we can make a change on them. I enjoy using econometric tools, especifically in impact evaluations and causality studies.    
 
-Me considero una persona entusiasta, organizada y resolutiva. Me adapto fácilmente a distintas tareas y actividades. 
-Me gusta trabajar en equipo y le doy gran importancia a las relaciones humanas.
-Considero que cada ocasión es una buena oportunidad para aprender.
+I consider myself as a responsible person, always discovering new topics to investigate about. 
