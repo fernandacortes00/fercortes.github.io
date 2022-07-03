@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Fernanda Cortes"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
